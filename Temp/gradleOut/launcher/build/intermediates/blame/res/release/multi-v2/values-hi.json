@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hicspace/Desktop/MAS/TestProjects/MAS Release - 2019/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hi/values-hi.xml",
+            "map": [
+                {
+                    "source": "/Users/hicspace/.gradle/caches/transforms-2/files-2.1/d1b3f414950256ed8cce1b07caad437b/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "4952",
+                        "endColumns": "100",
+                        "endOffsets": "5048"
+                    }
+                },
+                {
+                    "source": "/Users/hicspace/.gradle/caches/transforms-2/files-2.1/86033be41fa2a78b3412ce2858322307/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,161,263,375",
+                        "endColumns": "105,101,111,102",
+                        "endOffsets": "156,258,370,473"
+                    },
+                    "to": {
+                        "startLines": "30,31,32,33",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2992,3098,3200,3312",
+                        "endColumns": "105,101,111,102",
+                        "endOffsets": "3093,3195,3307,3410"
+                    }
+                },
+                {
+                    "source": "/Users/hicspace/.gradle/caches/transforms-2/files-2.1/a5be43006308bee274a634eebbe5c048/res/values-hi/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "199,310,452,536,676,762,912,1023,1093,1219,1288,1356,1433,1527",
+                        "endColumns": "110,141,83,139,85,149,110,69,125,68,67,76,93,70",
+                        "endOffsets": "309,451,535,675,761,911,1022,1092,1218,1287,1355,1432,1526,1597"
+                    },
+                    "to": {
+                        "startLines": "34,35,36,37,38,39,40,41,42,43,44,45,46,47",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3415,3530,3676,3764,3908,3998,4152,4267,4341,4471,4544,4616,4697,4795",
+                        "endColumns": "114,145,87,143,89,153,114,73,129,72,71,80,97,74",
+                        "endOffsets": "3525,3671,3759,3903,3993,4147,4262,4336,4466,4539,4611,4692,4790,4865"
+                    }
+                },
+                {
+                    "source": "/Users/hicspace/.gradle/caches/transforms-2/files-2.1/c3567c62a108245c9b02667a8fa97e78/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,211,309,419,505,607,728,806,883,974,1067,1162,1256,1356,1449,1544,1638,1729,1820,1901,2006,2108,2206,2316,2419,2528,2686,2787",
+                        "endColumns": "105,97,109,85,101,120,77,76,90,92,94,93,99,92,94,93,90,90,80,104,101,97,109,102,108,157,100,81",
+                        "endOffsets": "206,304,414,500,602,723,801,878,969,1062,1157,1251,1351,1444,1539,1633,1724,1815,1896,2001,2103,2201,2311,2414,2523,2681,2782,2864"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,48",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,211,309,419,505,607,728,806,883,974,1067,1162,1256,1356,1449,1544,1638,1729,1820,1901,2006,2108,2206,2316,2419,2528,2686,4870",
+                        "endColumns": "105,97,109,85,101,120,77,76,90,92,94,93,99,92,94,93,90,90,80,104,101,97,109,102,108,157,100,81",
+                        "endOffsets": "206,304,414,500,602,723,801,878,969,1062,1157,1251,1351,1444,1539,1633,1724,1815,1896,2001,2103,2201,2311,2414,2523,2681,2782,4947"
+                    }
+                },
+                {
+                    "source": "/Users/hicspace/.gradle/caches/transforms-2/files-2.1/9018b5c570e2451b513af62350c78933/res/values-hi/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "204",
+                        "endOffsets": "451"
+                    },
+                    "to": {
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "2787",
+                        "endColumns": "204",
+                        "endOffsets": "2987"
+                    }
+                }
+            ]
+        }
+    ]
+}
