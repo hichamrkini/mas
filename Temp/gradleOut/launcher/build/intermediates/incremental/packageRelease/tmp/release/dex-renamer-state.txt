@@ -1,7 +1,0 @@
-#Fri Oct 01 16:10:25 WEST 2021
-base.0=/Users/hicspace/Desktop/MAS/TestProjects/MAS Release - 2019/Temp/gradleOut/launcher/build/intermediates/safedk/dex/release
-path.1=classes2.dex
-renamed.1=classes2.dex
-path.0=classes.dex
-renamed.0=classes.dex
-base.1=/Users/hicspace/Desktop/MAS/TestProjects/MAS Release - 2019/Temp/gradleOut/launcher/build/intermediates/safedk/dex/release

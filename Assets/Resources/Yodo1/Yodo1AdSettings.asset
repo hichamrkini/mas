@@ -15,12 +15,14 @@ MonoBehaviour:
   androidSettings:
     AppKey: Ht0csvqMQnH
     AdmobAppID: ca-app-pub-5333220833779174~3946742739
+    BundleID: com.yodo1.mytestapp
     GooglePlayStore: 1
     ChineseAndroidStores: 0
     Channel: 
   iOSSettings:
-    AppKey: d4tlsoqgMiH
-    AdmobAppID: ca-app-pub-7188592076082444~1970227065
+    AppKey: q9AUsvqIpsk
+    AdmobAppID: ca-app-pub-5333220833779174~9568641059
+    BundleID: com.yodo1.mytestapp
     ChinaRegion: 0
     GlobalRegion: 1
-    AppLovinSdkKey: 
+    AppLovinSdkKey: xcGD2fy-GdmiZQapx_kUSy5SMKyLoXBk8RyB5u9MVv34KetGdbl4XrXvAUFy0Qg9scKyVTI0NM4i_yzdXih4XE
