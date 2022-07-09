@@ -19,7 +19,7 @@ public class AdsManager : MonoBehaviour
 
     void Start()
     {
-
+        
         Yodo1U3dMasCallback.OnSdkInitializedEvent += (success, error) =>
         {
             Debug.Log("[Yodo1 Mas] OnSdkInitializedEvent, success:" + success + ", error: " + error.ToString());
@@ -35,13 +35,13 @@ public class AdsManager : MonoBehaviour
             {
                 Debug.Log("[Yodo1 Mas] The initialization has failed");
             }
-        };
+        }; 
 
         Yodo1AdBuildConfig config = new Yodo1AdBuildConfig()
             .enableUserPrivacyDialog(true);
         Yodo1U3dMas.SetAdBuildConfig(config);
 
-        Yodo1U3dMas.InitializeSdk();
+       Yodo1U3dMas.InitializeMasSdk();
 
     }
 
@@ -70,7 +70,7 @@ public class AdsManager : MonoBehaviour
 
     public void ShowInterstitial()
     {
-
+        
         if (Yodo1U3dInterstitialAd.GetInstance().IsLoaded())
         {
             Yodo1U3dInterstitialAd.GetInstance().ShowAd("Your Placement");
@@ -78,13 +78,13 @@ public class AdsManager : MonoBehaviour
         else
         {
             Debug.Log("[Yodo1 Mas] Interstitial ad has not been cached.");
-        }
+        } 
     }
 
     private void OnInterstitialAdLoadedEvent(Yodo1U3dInterstitialAd ad)
     {
         Debug.Log("[Yodo1 Mas] OnInterstitialAdLoadedEvent event received" + ad.GetHashCode());
-
+        
     }
 
     private void OnInterstitialAdLoadFailedEvent(Yodo1U3dInterstitialAd ad, Yodo1U3dAdError adError)
@@ -106,7 +106,7 @@ public class AdsManager : MonoBehaviour
     private void OnInterstitialAdClosedEvent(Yodo1U3dInterstitialAd ad)
     {
         Debug.Log("[Yodo1 Mas] OnInterstitialAdClosedEvent event received");
-        LoadInterstitial();
+       LoadInterstitial();
     }
 
     /**************** Rewarded ads code ****************/
@@ -134,7 +134,7 @@ public class AdsManager : MonoBehaviour
 
     public void ShowRewarded()
     {
-
+        
         if (Yodo1U3dRewardAd.GetInstance().IsLoaded())
         {
             Yodo1U3dRewardAd.GetInstance().ShowAd("Your Placement");
@@ -277,7 +277,7 @@ public class AdsManager : MonoBehaviour
 
     public void ShowNative()
     {
-        if (nativeAdView != null)
+        if(nativeAdView != null)
         {
             nativeAdView.Show();
         }
