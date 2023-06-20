@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+  <androidPackages>
+    <repositories>
+      <repository>https://android-sdk.is.com</repository>
+      <repository>https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea</repository>
+      <repository>https://artifact.bytedance.com/repository/pangle</repository>
+    </repositories>
+    <androidPackage spec="com.yodo1.mas:core:4.8.10" />
+    <androidPackage spec="com.yodo1.mas:gplibrary:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation:applovin:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:admob-applovin:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:ironsource-applovin:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation:admob:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:applovin-admob:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:applovin-admob-ad-manager:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:ironsource-admob:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation:ironsource:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:admob-ironsource:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:applovin-ironsource:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation:facebook:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:admob-facebook:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:applovin-facebook:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:ironsource-facebook:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation:inmobi:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:admob-inmobi:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:applovin-inmobi:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:ironsource-inmobi:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation:kidoz:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:applovin-kidoz:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:ironsource-kidoz:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation:mintegral:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:admob-mintegral:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:applovin-mintegral:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:ironsource-mintegral:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation:pangle:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:admob-pangle:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:applovin-pangle:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:ironsource-pangle:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation:unityads:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:admob-unityads:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:applovin-unityads:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:ironsource-unityads:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation:vungle:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:admob-vungle:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:applovin-vungle:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation.adapters:ironsource-vungle:4.8.10" />
+    <androidPackage spec="com.yodo1.mas.mediation:yodo1:4.8.10" />
+  </androidPackages>
+</dependencies>
